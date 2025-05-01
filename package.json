@@ -1,0 +1,19 @@
+{
+  "name": "svg-animator",
+  "version": "1.0.0",
+  "description": "Projeto de animação SVG com Anime.js",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "author": "Matheus Lourenço",
+  "license": "MIT",
+  "dependencies": {
+    "animejs": "^3.2.1"
+  },
+  "devDependencies": {
+    "vite": "^4.5.0"
+  }
+}
